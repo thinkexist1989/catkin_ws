@@ -1,0 +1,572 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+.ycm_extra_conf.py	../.ycm_extra_conf.py	1;"	kind:file	line:1
+ANG_VEL_STEP_SIZE	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^ANG_VEL_STEP_SIZE = 0.1$/;"	kind:variable	line:41
+BURGER_MAX_ANG_VEL	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^BURGER_MAX_ANG_VEL = 2.84$/;"	kind:variable	line:35
+BURGER_MAX_LIN_VEL	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^BURGER_MAX_LIN_VEL = 0.22$/;"	kind:variable	line:34
+Bumper	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_bumper	/^class Bumper():$/;"	kind:class	line:24
+CATKIN_MARKER_FILE	../devel/_setup_util.py	/^CATKIN_MARKER_FILE = '.catkin'$/;"	kind:variable	line:46
+CMAKE_PREFIX_PATH	../devel/_setup_util.py	/^        CMAKE_PREFIX_PATH = '\/home\/think\/catkin_ws\/devel;\/opt\/ros\/melodic'.split(';')$/;"	kind:variable	line:265
+CMAKE_PREFIX_PATH	../devel/_setup_util.py	/^        CMAKE_PREFIX_PATH = os.pathsep.join(CMAKE_PREFIX_PATH)$/;"	kind:variable	line:270
+Client	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_client	/^class Client():$/;"	kind:class	line:41
+Cliff	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_cliff	/^class Cliff():$/;"	kind:class	line:24
+Complex	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^class Complex(genpy.Message):$/;"	kind:class	line:9
+DirectoryOfThisScript	../.ycm_extra_conf.py	/^def DirectoryOfThisScript():$/;"	kind:function	line:46
+ENV_VAR_SUBFOLDERS	../devel/_setup_util.py	/^ENV_VAR_SUBFOLDERS = {$/;"	kind:variable	line:53
+FlagsForFile	../.ycm_extra_conf.py	/^def FlagsForFile( filename, **kwargs ):$/;"	kind:function	line:98
+GetCompilationInfoForFile	../.ycm_extra_conf.py	/^def GetCompilationInfoForFile( filename ):$/;"	kind:function	line:84
+GotoPoint	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_pointop_key	/^class GotoPoint():$/;"	kind:class	line:39
+IS_DARWIN	../devel/_setup_util.py	/^IS_DARWIN = (system == 'Darwin')$/;"	kind:variable	line:49
+IS_WINDOWS	../devel/_setup_util.py	/^IS_WINDOWS = (system == 'Windows')$/;"	kind:variable	line:50
+Illumination	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_illumination	/^class Illumination():$/;"	kind:class	line:24
+IsHeaderFile	../.ycm_extra_conf.py	/^def IsHeaderFile( filename ):$/;"	kind:function	line:79
+LIN_VEL_STEP_SIZE	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^LIN_VEL_STEP_SIZE = 0.01$/;"	kind:variable	line:40
+MakeRelativePathsInFlagsAbsolute	../.ycm_extra_conf.py	/^def MakeRelativePathsInFlagsAbsolute( flags, working_directory ):$/;"	kind:function	line:50
+Obstacle	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_obstacle	/^class Obstacle():$/;"	kind:class	line:24
+SOURCE_EXTENSIONS	../.ycm_extra_conf.py	/^SOURCE_EXTENSIONS = [ '.cpp', '.cxx', '.cc', '.c' ]$/;"	kind:variable	line:44
+Sonar	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_sonar	/^class Sonar():$/;"	kind:class	line:24
+TimerAction	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^class TimerAction(genpy.Message):$/;"	kind:class	line:13
+TimerActionFeedback	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^class TimerActionFeedback(genpy.Message):$/;"	kind:class	line:13
+TimerActionGoal	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^class TimerActionGoal(genpy.Message):$/;"	kind:class	line:13
+TimerActionResult	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^class TimerActionResult(genpy.Message):$/;"	kind:class	line:13
+TimerFeedback	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^class TimerFeedback(genpy.Message):$/;"	kind:class	line:10
+TimerGoal	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^class TimerGoal(genpy.Message):$/;"	kind:class	line:10
+TimerResult	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^class TimerResult(genpy.Message):$/;"	kind:class	line:10
+Turtlebot3Action	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^class Turtlebot3Action(genpy.Message):$/;"	kind:class	line:14
+Turtlebot3Action	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^class Turtlebot3Action(object):$/;"	kind:class	line:29
+Turtlebot3ActionFeedback	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^class Turtlebot3ActionFeedback(genpy.Message):$/;"	kind:class	line:13
+Turtlebot3ActionGoal	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^class Turtlebot3ActionGoal(genpy.Message):$/;"	kind:class	line:14
+Turtlebot3ActionResult	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^class Turtlebot3ActionResult(genpy.Message):$/;"	kind:class	line:13
+Turtlebot3Feedback	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^class Turtlebot3Feedback(genpy.Message):$/;"	kind:class	line:9
+Turtlebot3Goal	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^class Turtlebot3Goal(genpy.Message):$/;"	kind:class	line:10
+Turtlebot3Result	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^class Turtlebot3Result(genpy.Message):$/;"	kind:class	line:9
+WAFFLE_MAX_ANG_VEL	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^WAFFLE_MAX_ANG_VEL = 1.82$/;"	kind:variable	line:38
+WAFFLE_MAX_LIN_VEL	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^WAFFLE_MAX_LIN_VEL = 0.26$/;"	kind:variable	line:37
+WordCount	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^class WordCount(object):$/;"	kind:class	line:224
+WordCountRequest	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^class WordCountRequest(genpy.Message):$/;"	kind:class	line:9
+WordCountResponse	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^class WordCountResponse(genpy.Message):$/;"	kind:class	line:131
+_Complex.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	1;"	kind:file	line:1
+_TimerAction.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	1;"	kind:file	line:1
+_TimerActionFeedback.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	1;"	kind:file	line:1
+_TimerActionGoal.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	1;"	kind:file	line:1
+_TimerActionResult.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	1;"	kind:file	line:1
+_TimerFeedback.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	1;"	kind:file	line:1
+_TimerGoal.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	1;"	kind:file	line:1
+_TimerResult.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	1;"	kind:file	line:1
+_Turtlebot3Action.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	1;"	kind:file	line:1
+_Turtlebot3ActionFeedback.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	1;"	kind:file	line:1
+_Turtlebot3ActionGoal.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	1;"	kind:file	line:1
+_Turtlebot3ActionResult.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	1;"	kind:file	line:1
+_Turtlebot3Feedback.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	1;"	kind:file	line:1
+_Turtlebot3Goal.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	1;"	kind:file	line:1
+_Turtlebot3Result.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	1;"	kind:file	line:1
+_WordCount.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	1;"	kind:file	line:1
+__execfiles	../devel/lib/python2.7/dist-packages/turtlebot3_example/__init__.py	/^__execfiles = []$/;"	kind:variable	line:19
+__execfiles	../devel/lib/python2.7/dist-packages/turtlebot3_teleop/__init__.py	/^__execfiles = []$/;"	kind:variable	line:19
+__extended_path	../devel/lib/python2.7/dist-packages/turtlebot3_example/__init__.py	/^__extended_path = "\/home\/think\/catkin_ws\/src\/turtlebot3\/turtlebot3_example\/src".split(";")$/;"	kind:variable	line:10
+__extended_path	../devel/lib/python2.7/dist-packages/turtlebot3_teleop/__init__.py	/^__extended_path = "\/home\/think\/catkin_ws\/src\/turtlebot3\/turtlebot3_teleop\/src".split(";")$/;"	kind:variable	line:10
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:19
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:140
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:95
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:68
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:93
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:27
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:26
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:25
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:141
+__init__	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:18
+__init__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:139
+__init__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:90
+__init__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:76
+__init__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:89
+__init__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:21
+__init__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:33
+__init__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  def __init__(self, *args, **kwds):$/;"	kind:function	line:20
+__init__	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_bumper	/^    def __init__(self):$/;"	kind:member	line:25
+__init__	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_client	/^    def __init__(self):$/;"	kind:member	line:42
+__init__	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_cliff	/^    def __init__(self):$/;"	kind:member	line:25
+__init__	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_illumination	/^    def __init__(self):$/;"	kind:member	line:25
+__init__	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_obstacle	/^    def __init__(self):$/;"	kind:member	line:25
+__init__	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_pointop_key	/^    def __init__(self):$/;"	kind:member	line:40
+__init__	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    def __init__(self, name):$/;"	kind:member	line:33
+__init__	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_sonar	/^    def __init__(self):$/;"	kind:member	line:25
+__init__.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/__init__.py	1;"	kind:file	line:1
+__init__.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/__init__.py	1;"	kind:file	line:1
+__init__.py	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/__init__.py	1;"	kind:file	line:1
+__init__.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/__init__.py	1;"	kind:file	line:1
+__init__.py	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/__init__.py	1;"	kind:file	line:1
+__init__.py	../devel/lib/python2.7/dist-packages/turtlebot3_teleop/__init__.py	1;"	kind:file	line:1
+__init__.py	../src/turtlebot3/turtlebot3_example/src/turtlebot3_example/__init__.py	1;"	kind:file	line:1
+__init__.py	../src/turtlebot3/turtlebot3_teleop/src/turtlebot3_teleop/__init__.py	1;"	kind:file	line:1
+__path__	../devel/lib/python2.7/dist-packages/turtlebot3_example/__init__.py	/^__path__ = extend_path(__path__, __name__)$/;"	kind:variable	line:16
+__path__	../devel/lib/python2.7/dist-packages/turtlebot3_teleop/__init__.py	/^__path__ = extend_path(__path__, __name__)$/;"	kind:variable	line:16
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  __slots__ = ['real','imaginary']$/;"	kind:variable	line:16
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  __slots__ = ['action_goal','action_result','action_feedback']$/;"	kind:variable	line:137
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  __slots__ = ['header','status','feedback']$/;"	kind:variable	line:92
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  __slots__ = ['header','goal_id','goal']$/;"	kind:variable	line:65
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  __slots__ = ['header','status','result']$/;"	kind:variable	line:90
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  __slots__ = ['time_elapsed','time_remaining']$/;"	kind:variable	line:24
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  __slots__ = ['time_to_wait']$/;"	kind:variable	line:23
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  __slots__ = ['time_elapsed','updates_sent']$/;"	kind:variable	line:22
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  __slots__ = ['count']$/;"	kind:variable	line:138
+__slots__	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  __slots__ = ['words']$/;"	kind:variable	line:15
+__slots__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  __slots__ = ['action_goal','action_result','action_feedback']$/;"	kind:variable	line:136
+__slots__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  __slots__ = ['header','status','feedback']$/;"	kind:variable	line:87
+__slots__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  __slots__ = ['header','goal_id','goal']$/;"	kind:variable	line:73
+__slots__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  __slots__ = ['header','status','result']$/;"	kind:variable	line:86
+__slots__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  __slots__ = ['state']$/;"	kind:variable	line:18
+__slots__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  __slots__ = ['goal']$/;"	kind:variable	line:30
+__slots__	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  __slots__ = ['result']$/;"	kind:variable	line:17
+_feedback	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    _feedback = turtlebot3_example.msg.Turtlebot3ActionFeedback()$/;"	kind:variable	line:30
+_get_struct_2I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^def _get_struct_2I():$/;"	kind:function	line:604
+_get_struct_2I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^def _get_struct_2I():$/;"	kind:function	line:335
+_get_struct_2I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^def _get_struct_2I():$/;"	kind:function	line:264
+_get_struct_2I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^def _get_struct_2I():$/;"	kind:function	line:333
+_get_struct_2I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^def _get_struct_2I():$/;"	kind:function	line:639
+_get_struct_2I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^def _get_struct_2I():$/;"	kind:function	line:348
+_get_struct_2I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^def _get_struct_2I():$/;"	kind:function	line:272
+_get_struct_2I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^def _get_struct_2I():$/;"	kind:function	line:347
+_get_struct_2f	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^def _get_struct_2f():$/;"	kind:function	line:110
+_get_struct_2i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^def _get_struct_2i():$/;"	kind:function	line:270
+_get_struct_2i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^def _get_struct_2i():$/;"	kind:function	line:120
+_get_struct_2i3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^def _get_struct_2i3I():$/;"	kind:function	line:580
+_get_struct_2i4I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^def _get_struct_2i4I():$/;"	kind:function	line:592
+_get_struct_2iI	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^def _get_struct_2iI():$/;"	kind:function	line:339
+_get_struct_2iI	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^def _get_struct_2iI():$/;"	kind:function	line:122
+_get_struct_3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^def _get_struct_3I():$/;"	kind:function	line:586
+_get_struct_3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^def _get_struct_3I():$/;"	kind:function	line:323
+_get_struct_3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^def _get_struct_3I():$/;"	kind:function	line:258
+_get_struct_3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^def _get_struct_3I():$/;"	kind:function	line:321
+_get_struct_3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^def _get_struct_3I():$/;"	kind:function	line:627
+_get_struct_3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^def _get_struct_3I():$/;"	kind:function	line:336
+_get_struct_3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^def _get_struct_3I():$/;"	kind:function	line:266
+_get_struct_3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^def _get_struct_3I():$/;"	kind:function	line:335
+_get_struct_3d	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^def _get_struct_3d():$/;"	kind:function	line:278
+_get_struct_3d	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^def _get_struct_3d():$/;"	kind:function	line:125
+_get_struct_3d3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^def _get_struct_3d3I():$/;"	kind:function	line:621
+_get_struct_4i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^def _get_struct_4i():$/;"	kind:function	line:598
+_get_struct_4i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^def _get_struct_4i():$/;"	kind:function	line:341
+_get_struct_4i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^def _get_struct_4i():$/;"	kind:function	line:130
+_get_struct_B	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^def _get_struct_B():$/;"	kind:function	line:574
+_get_struct_B	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^def _get_struct_B():$/;"	kind:function	line:329
+_get_struct_B	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^def _get_struct_B():$/;"	kind:function	line:327
+_get_struct_B	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^def _get_struct_B():$/;"	kind:function	line:633
+_get_struct_B	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^def _get_struct_B():$/;"	kind:function	line:342
+_get_struct_B	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^def _get_struct_B():$/;"	kind:function	line:341
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^def _get_struct_I():$/;"	kind:function	line:106
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^def _get_struct_I():$/;"	kind:function	line:570
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^def _get_struct_I():$/;"	kind:function	line:319
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^def _get_struct_I():$/;"	kind:function	line:254
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^def _get_struct_I():$/;"	kind:function	line:317
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^def _get_struct_I():$/;"	kind:function	line:126
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^def _get_struct_I():$/;"	kind:function	line:116
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^def _get_struct_I():$/;"	kind:function	line:118
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^def _get_struct_I():$/;"	kind:function	line:120
+_get_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^def _get_struct_I():$/;"	kind:function	line:221
+_get_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^def _get_struct_I():$/;"	kind:function	line:617
+_get_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^def _get_struct_I():$/;"	kind:function	line:332
+_get_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^def _get_struct_I():$/;"	kind:function	line:262
+_get_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^def _get_struct_I():$/;"	kind:function	line:331
+_get_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^def _get_struct_I():$/;"	kind:function	line:123
+_get_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^def _get_struct_I():$/;"	kind:function	line:121
+_get_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^def _get_struct_I():$/;"	kind:function	line:122
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  def _get_types(self):$/;"	kind:function	line:44
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  def _get_types(self):$/;"	kind:function	line:168
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  def _get_types(self):$/;"	kind:function	line:123
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  def _get_types(self):$/;"	kind:function	line:96
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  def _get_types(self):$/;"	kind:function	line:121
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  def _get_types(self):$/;"	kind:function	line:52
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  def _get_types(self):$/;"	kind:function	line:48
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  def _get_types(self):$/;"	kind:function	line:50
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def _get_types(self):$/;"	kind:function	line:163
+_get_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def _get_types(self):$/;"	kind:function	line:40
+_get_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  def _get_types(self):$/;"	kind:function	line:167
+_get_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  def _get_types(self):$/;"	kind:function	line:118
+_get_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  def _get_types(self):$/;"	kind:function	line:104
+_get_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  def _get_types(self):$/;"	kind:function	line:117
+_get_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  def _get_types(self):$/;"	kind:function	line:43
+_get_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  def _get_types(self):$/;"	kind:function	line:55
+_get_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  def _get_types(self):$/;"	kind:function	line:42
+_get_workspaces	../devel/_setup_util.py	/^def _get_workspaces(environ, include_fuerte=False, include_non_existing=False):$/;"	kind:function	line:114
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:12
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:16
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  _has_header = True #flag to mark the presence of a Header object$/;"	kind:variable	line:16
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  _has_header = True #flag to mark the presence of a Header object$/;"	kind:variable	line:16
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  _has_header = True #flag to mark the presence of a Header object$/;"	kind:variable	line:16
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:13
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:13
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:13
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:12
+_has_header	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:134
+_has_header	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:17
+_has_header	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  _has_header = True #flag to mark the presence of a Header object$/;"	kind:variable	line:16
+_has_header	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  _has_header = True #flag to mark the presence of a Header object$/;"	kind:variable	line:17
+_has_header	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  _has_header = True #flag to mark the presence of a Header object$/;"	kind:variable	line:16
+_has_header	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:12
+_has_header	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:13
+_has_header	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	kind:variable	line:12
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  _md5sum = "54da470dccf15d60bd273ab751e1c0a1"$/;"	kind:variable	line:10
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  _md5sum = "a759c6875ea9b1f22b6751bfc912deb7"$/;"	kind:variable	line:14
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  _md5sum = "febb868da004dea29438e31640093be2"$/;"	kind:variable	line:14
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  _md5sum = "db74ec180ecb81d0542047d87021844f"$/;"	kind:variable	line:14
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  _md5sum = "1f7bff5e4609ae671e2c0dba2b81e678"$/;"	kind:variable	line:14
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  _md5sum = "f7ef31d21e406bbd1f38a63801a29be7"$/;"	kind:variable	line:11
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  _md5sum = "861563d4afc38bffed1a53c61a474261"$/;"	kind:variable	line:11
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  _md5sum = "8227810e22df8077dd49231152c9e200"$/;"	kind:variable	line:11
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _md5sum = "6f897d3845272d18053a750c1cfb862a"$/;"	kind:variable	line:10
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _md5sum = "ac8b22eb02c1f433e0a55ee9aac59a18"$/;"	kind:variable	line:132
+_md5sum	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _md5sum = '58903d21a3264f3408d79ba79e9f7c7e'$/;"	kind:variable	line:226
+_md5sum	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  _md5sum = "86a69578ab4eb5bb3e55984730f14503"$/;"	kind:variable	line:15
+_md5sum	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  _md5sum = "12232ef97486c7962f264c105aae2958"$/;"	kind:variable	line:14
+_md5sum	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  _md5sum = "629663823fea578d64180162f10bec87"$/;"	kind:variable	line:15
+_md5sum	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  _md5sum = "5489bcfa93e36e07a0b801f3ac4c7c97"$/;"	kind:variable	line:14
+_md5sum	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  _md5sum = "af6d3a99f0fbeb66d3248fa4b3e675fb"$/;"	kind:variable	line:10
+_md5sum	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  _md5sum = "8ad3bd0e46ff6777ce7cd2fdd945cb9e"$/;"	kind:variable	line:11
+_md5sum	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  _md5sum = "c22f2a1ed8654a0b365f1bb3f7ff2c0f"$/;"	kind:variable	line:10
+_parse_arguments	../devel/_setup_util.py	/^def _parse_arguments(args=None):$/;"	kind:function	line:250
+_prefix_env_variable	../devel/_setup_util.py	/^def _prefix_env_variable(environ, name, paths, subfolders):$/;"	kind:function	line:149
+_request_class	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _request_class  = WordCountRequest$/;"	kind:variable	line:227
+_response_class	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _response_class = WordCountResponse$/;"	kind:variable	line:228
+_result	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    _result = turtlebot3_example.msg.Turtlebot3ActionResult()$/;"	kind:variable	line:31
+_rollback_env_variable	../devel/_setup_util.py	/^def _rollback_env_variable(environ, name, subfolders):$/;"	kind:function	line:83
+_setup_util.py	../devel/_setup_util.py	1;"	kind:file	line:1
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  _slot_types = ['float32','float32']$/;"	kind:variable	line:17
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  _slot_types = ['beginner_tutorials\/TimerActionGoal','beginner_tutorials\/TimerActionResult','beginner_tutorials\/TimerActionFeedback']$/;"	kind:variable	line:138
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  _slot_types = ['std_msgs\/Header','actionlib_msgs\/GoalStatus','beginner_tutorials\/TimerFeedback']$/;"	kind:variable	line:93
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  _slot_types = ['std_msgs\/Header','actionlib_msgs\/GoalID','beginner_tutorials\/TimerGoal']$/;"	kind:variable	line:66
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  _slot_types = ['std_msgs\/Header','actionlib_msgs\/GoalStatus','beginner_tutorials\/TimerResult']$/;"	kind:variable	line:91
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  _slot_types = ['duration','duration']$/;"	kind:variable	line:25
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  _slot_types = ['duration']$/;"	kind:variable	line:24
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  _slot_types = ['duration','uint32']$/;"	kind:variable	line:23
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _slot_types = ['string']$/;"	kind:variable	line:16
+_slot_types	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _slot_types = ['uint32']$/;"	kind:variable	line:139
+_slot_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  _slot_types = ['turtlebot3_example\/Turtlebot3ActionGoal','turtlebot3_example\/Turtlebot3ActionResult','turtlebot3_example\/Turtlebot3ActionFeedback']$/;"	kind:variable	line:137
+_slot_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  _slot_types = ['std_msgs\/Header','actionlib_msgs\/GoalStatus','turtlebot3_example\/Turtlebot3Feedback']$/;"	kind:variable	line:88
+_slot_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  _slot_types = ['std_msgs\/Header','actionlib_msgs\/GoalID','turtlebot3_example\/Turtlebot3Goal']$/;"	kind:variable	line:74
+_slot_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  _slot_types = ['std_msgs\/Header','actionlib_msgs\/GoalStatus','turtlebot3_example\/Turtlebot3Result']$/;"	kind:variable	line:87
+_slot_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  _slot_types = ['string']$/;"	kind:variable	line:19
+_slot_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  _slot_types = ['geometry_msgs\/Vector3']$/;"	kind:variable	line:31
+_slot_types	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  _slot_types = ['string']$/;"	kind:variable	line:18
+_struct_2I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^_struct_2I = None$/;"	kind:variable	line:603
+_struct_2I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^_struct_2I = None$/;"	kind:variable	line:334
+_struct_2I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^_struct_2I = None$/;"	kind:variable	line:263
+_struct_2I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^_struct_2I = None$/;"	kind:variable	line:332
+_struct_2I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^_struct_2I = None$/;"	kind:variable	line:638
+_struct_2I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^_struct_2I = None$/;"	kind:variable	line:347
+_struct_2I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^_struct_2I = None$/;"	kind:variable	line:271
+_struct_2I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^_struct_2I = None$/;"	kind:variable	line:346
+_struct_2f	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^_struct_2f = None$/;"	kind:variable	line:109
+_struct_2i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^_struct_2i = None$/;"	kind:variable	line:269
+_struct_2i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^_struct_2i = None$/;"	kind:variable	line:119
+_struct_2i3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^_struct_2i3I = None$/;"	kind:variable	line:579
+_struct_2i4I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^_struct_2i4I = None$/;"	kind:variable	line:591
+_struct_2iI	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^_struct_2iI = None$/;"	kind:variable	line:338
+_struct_2iI	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^_struct_2iI = None$/;"	kind:variable	line:121
+_struct_3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^_struct_3I = None$/;"	kind:variable	line:585
+_struct_3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^_struct_3I = None$/;"	kind:variable	line:322
+_struct_3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^_struct_3I = None$/;"	kind:variable	line:257
+_struct_3I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^_struct_3I = None$/;"	kind:variable	line:320
+_struct_3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^_struct_3I = None$/;"	kind:variable	line:626
+_struct_3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^_struct_3I = None$/;"	kind:variable	line:335
+_struct_3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^_struct_3I = None$/;"	kind:variable	line:265
+_struct_3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^_struct_3I = None$/;"	kind:variable	line:334
+_struct_3d	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^_struct_3d = None$/;"	kind:variable	line:277
+_struct_3d	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^_struct_3d = None$/;"	kind:variable	line:124
+_struct_3d3I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^_struct_3d3I = None$/;"	kind:variable	line:620
+_struct_4i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^_struct_4i = None$/;"	kind:variable	line:597
+_struct_4i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^_struct_4i = None$/;"	kind:variable	line:340
+_struct_4i	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^_struct_4i = None$/;"	kind:variable	line:129
+_struct_B	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^_struct_B = None$/;"	kind:variable	line:573
+_struct_B	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^_struct_B = None$/;"	kind:variable	line:328
+_struct_B	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^_struct_B = None$/;"	kind:variable	line:326
+_struct_B	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^_struct_B = None$/;"	kind:variable	line:632
+_struct_B	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^_struct_B = None$/;"	kind:variable	line:341
+_struct_B	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^_struct_B = None$/;"	kind:variable	line:340
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:105
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:569
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:318
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:253
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:316
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:125
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:115
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:117
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:119
+_struct_I	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:220
+_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:616
+_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:331
+_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:261
+_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:330
+_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:122
+_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:120
+_struct_I	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^_struct_I = genpy.struct_I$/;"	kind:variable	line:121
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  _type = "beginner_tutorials\/Complex"$/;"	kind:variable	line:11
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  _type = "beginner_tutorials\/TimerAction"$/;"	kind:variable	line:15
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  _type = "beginner_tutorials\/TimerActionFeedback"$/;"	kind:variable	line:15
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  _type = "beginner_tutorials\/TimerActionGoal"$/;"	kind:variable	line:15
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  _type = "beginner_tutorials\/TimerActionResult"$/;"	kind:variable	line:15
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  _type = "beginner_tutorials\/TimerFeedback"$/;"	kind:variable	line:12
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  _type = "beginner_tutorials\/TimerGoal"$/;"	kind:variable	line:12
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  _type = "beginner_tutorials\/TimerResult"$/;"	kind:variable	line:12
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _type          = 'beginner_tutorials\/WordCount'$/;"	kind:variable	line:225
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _type = "beginner_tutorials\/WordCountRequest"$/;"	kind:variable	line:11
+_type	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  _type = "beginner_tutorials\/WordCountResponse"$/;"	kind:variable	line:133
+_type	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  _type = "turtlebot3_example\/Turtlebot3Action"$/;"	kind:variable	line:16
+_type	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  _type = "turtlebot3_example\/Turtlebot3ActionFeedback"$/;"	kind:variable	line:15
+_type	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  _type = "turtlebot3_example\/Turtlebot3ActionGoal"$/;"	kind:variable	line:16
+_type	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  _type = "turtlebot3_example\/Turtlebot3ActionResult"$/;"	kind:variable	line:15
+_type	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  _type = "turtlebot3_example\/Turtlebot3Feedback"$/;"	kind:variable	line:11
+_type	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  _type = "turtlebot3_example\/Turtlebot3Goal"$/;"	kind:variable	line:12
+_type	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  _type = "turtlebot3_example\/Turtlebot3Result"$/;"	kind:variable	line:11
+args	../devel/_setup_util.py	/^            args = _parse_arguments()$/;"	kind:variable	line:259
+assignment	../devel/_setup_util.py	/^def assignment(key, value):$/;"	kind:function	line:175
+base_path	../devel/_setup_util.py	/^        base_path = os.path.dirname(__file__)$/;"	kind:variable	line:267
+bumper	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_bumper	/^    def bumper(self):$/;"	kind:member	line:37
+callback	../src/beginner_tutorials/scripts/message_subscriber.py	/^def callback(msg):$/;"	kind:function	line:6
+callback	../src/beginner_tutorials/scripts/topic_subscriber.py	/^def callback(msg):$/;"	kind:function	line:6
+checkAngularLimitVelocity	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^def checkAngularLimitVelocity(vel):$/;"	kind:function	line:107
+checkLinearLimitVelocity	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^def checkLinearLimitVelocity(vel):$/;"	kind:function	line:97
+client	../src/beginner_tutorials/scripts/fancy_action_client.py	/^client = actionlib.SimpleActionClient('timer',TimerAction)$/;"	kind:variable	line:14
+client	../src/beginner_tutorials/scripts/simple_action_client.py	/^client = actionlib.SimpleActionClient('timer', TimerAction)$/;"	kind:variable	line:11
+client	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_client	/^    def client(self):$/;"	kind:member	line:63
+cliff	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_cliff	/^    def cliff(self):$/;"	kind:member	line:40
+cmd_vel_pub	../src/wanderbot/src/red_light_green_light.py	/^cmd_vel_pub = rospy.Publisher('cmd_vel',Twist,queue_size = 1)$/;"	kind:variable	line:6
+cmd_vel_pub	../src/wanderbot/src/wander.py	/^cmd_vel_pub = rospy.Publisher('cmd_vel',Twist,queue_size = 1)$/;"	kind:variable	line:13
+comment	../devel/_setup_util.py	/^def comment(msg):$/;"	kind:function	line:182
+compilation_database_folder	../.ycm_extra_conf.py	/^compilation_database_folder = ''$/;"	kind:variable	line:37
+constrain	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^def constrain(input, low, high):$/;"	kind:function	line:87
+control	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_marker_server	/^    control = InteractiveMarkerControl()$/;"	kind:variable	line:49
+control_angular_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                control_angular_vel = 0.0$/;"	kind:variable	line:155
+control_angular_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^            control_angular_vel = makeSimpleProfile(control_angular_vel, target_angular_vel, (ANG_VEL_STEP_SIZE\/2.0))$/;"	kind:variable	line:170
+control_angular_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^    control_angular_vel = 0.0$/;"	kind:variable	line:129
+control_linear_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                control_linear_vel  = 0.0$/;"	kind:variable	line:153
+control_linear_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^            control_linear_vel = makeSimpleProfile(control_linear_vel, target_linear_vel, (LIN_VEL_STEP_SIZE\/2.0))$/;"	kind:variable	line:167
+control_linear_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^    control_linear_vel  = 0.0$/;"	kind:variable	line:128
+count	../src/beginner_tutorials/scripts/topic_publisher.py	/^count = 0$/;"	kind:variable	line:10
+count_words	../src/beginner_tutorials/scripts/service_server.py	/^def count_words(request):$/;"	kind:function	line:6
+database	../.ycm_extra_conf.py	/^  database = None$/;"	kind:variable	line:42
+database	../.ycm_extra_conf.py	/^  database = ycm_core.CompilationDatabase( compilation_database_folder )$/;"	kind:variable	line:40
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  def deserialize(self, str):$/;"	kind:function	line:61
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  def deserialize(self, str):$/;"	kind:function	line:247
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  def deserialize(self, str):$/;"	kind:function	line:163
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  def deserialize(self, str):$/;"	kind:function	line:129
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  def deserialize(self, str):$/;"	kind:function	line:161
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  def deserialize(self, str):$/;"	kind:function	line:69
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  def deserialize(self, str):$/;"	kind:function	line:65
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  def deserialize(self, str):$/;"	kind:function	line:67
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def deserialize(self, str):$/;"	kind:function	line:179
+deserialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def deserialize(self, str):$/;"	kind:function	line:61
+deserialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  def deserialize(self, str):$/;"	kind:function	line:256
+deserialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  def deserialize(self, str):$/;"	kind:function	line:162
+deserialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  def deserialize(self, str):$/;"	kind:function	line:137
+deserialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  def deserialize(self, str):$/;"	kind:function	line:161
+deserialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  def deserialize(self, str):$/;"	kind:function	line:64
+deserialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  def deserialize(self, str):$/;"	kind:function	line:72
+deserialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  def deserialize(self, str):$/;"	kind:function	line:63
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:89
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:445
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:258
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:205
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:256
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:103
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:96
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:98
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:205
+deserialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:98
+deserialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:478
+deserialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:266
+deserialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:213
+deserialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:265
+deserialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:101
+deserialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:102
+deserialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  def deserialize_numpy(self, str, numpy):$/;"	kind:function	line:100
+do_timer	../src/beginner_tutorials/scripts/fancy_action_server.py	/^def do_timer(goal):$/;"	kind:function	line:9
+do_timer	../src/beginner_tutorials/scripts/simple_action_server.py	/^def do_timer(goal):$/;"	kind:function	line:13
+driving_forward	../src/wanderbot/src/red_light_green_light.py	/^        driving_forward = not driving_forward$/;"	kind:variable	line:24
+driving_forward	../src/wanderbot/src/red_light_green_light.py	/^driving_forward = False$/;"	kind:variable	line:13
+driving_forward	../src/wanderbot/src/wander.py	/^            driving_forward = False$/;"	kind:variable	line:22
+driving_forward	../src/wanderbot/src/wander.py	/^            driving_forward = True # stop spinning ,time to go forward$/;"	kind:variable	line:26
+driving_forward	../src/wanderbot/src/wander.py	/^driving_forward = True$/;"	kind:variable	line:16
+environ	../devel/_setup_util.py	/^        environ = dict(os.environ)$/;"	kind:variable	line:272
+execute_cb	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    def execute_cb(self, goal):$/;"	kind:member	line:106
+fancy_action_client.py	../src/beginner_tutorials/scripts/fancy_action_client.py	1;"	kind:file	line:1
+fancy_action_server.py	../src/beginner_tutorials/scripts/fancy_action_server.py	1;"	kind:file	line:1
+feedback_cb	../src/beginner_tutorials/scripts/fancy_action_client.py	/^def feedback_cb(feedback):$/;"	kind:function	line:9
+find_env_hooks	../devel/_setup_util.py	/^def find_env_hooks(environ, cmake_prefix_path):$/;"	kind:function	line:198
+flags	../.ycm_extra_conf.py	/^flags = [$/;"	kind:variable	line:6
+g_range_ahead	../src/wanderbot/src/wander.py	/^g_range_ahead = 1 #anything to start$/;"	kind:variable	line:11
+getKey	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^def getKey():$/;"	kind:function	line:63
+get_bumper	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_bumper	/^    def get_bumper(self, sensor):$/;"	kind:member	line:30
+get_cliff	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_cliff	/^    def get_cliff(self, sensor):$/;"	kind:member	line:30
+get_illumination	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_illumination	/^    def get_illumination(self, sensor):$/;"	kind:member	line:30
+get_odom	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_pointop_key	/^    def get_odom(self):$/;"	kind:member	line:133
+get_odom	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    def get_odom(self, odom):$/;"	kind:member	line:43
+get_scan	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_obstacle	/^    def get_scan(self):$/;"	kind:member	line:30
+get_sonar	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_sonar	/^    def get_sonar(self, sensor):$/;"	kind:member	line:30
+get_state	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    def get_state(self, data):$/;"	kind:member	line:47
+getkey	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_client	/^    def getkey(self):$/;"	kind:member	line:46
+getkey	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_pointop_key	/^    def getkey(self):$/;"	kind:member	line:126
+go_front	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    def go_front(self, lenght, count):$/;"	kind:member	line:77
+goal	../src/beginner_tutorials/scripts/fancy_action_client.py	/^goal = TimerGoal()$/;"	kind:variable	line:17
+goal	../src/beginner_tutorials/scripts/simple_action_client.py	/^goal = TimerGoal()$/;"	kind:variable	line:15
+green_light_twist	../src/wanderbot/src/red_light_green_light.py	/^green_light_twist = Twist()$/;"	kind:variable	line:10
+illumination	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_illumination	/^    def illumination(self):$/;"	kind:member	line:40
+int_marker	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_marker_server	/^    int_marker = InteractiveMarker()$/;"	kind:variable	line:44
+key	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^            key = getKey()$/;"	kind:variable	line:134
+key_pub	../src/teleop_bot/src/key_publisher.py	/^    key_pub = rospy.Publisher('keys', String, queue_size = 1)$/;"	kind:variable	line:8
+key_publisher.py	../src/teleop_bot/src/key_publisher.py	1;"	kind:file	line:1
+light_change_time	../src/wanderbot/src/red_light_green_light.py	/^        light_change_time = rospy.Time.now()+rospy.Duration(1)$/;"	kind:variable	line:25
+light_change_time	../src/wanderbot/src/red_light_green_light.py	/^light_change_time = rospy.Time.now()$/;"	kind:variable	line:14
+lines	../devel/_setup_util.py	/^        lines = []$/;"	kind:variable	line:273
+main	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_bumper	/^def main():$/;"	kind:function	line:44
+main	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_cliff	/^def main():$/;"	kind:function	line:45
+main	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_illumination	/^def main():$/;"	kind:function	line:45
+main	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_obstacle	/^def main():$/;"	kind:function	line:56
+main	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_sonar	/^def main():$/;"	kind:function	line:45
+makeSimpleProfile	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^def makeSimpleProfile(output, input, slop):$/;"	kind:function	line:77
+message_publisher.py	../src/beginner_tutorials/scripts/message_publisher.py	1;"	kind:file	line:1
+message_subscriber.py	../src/beginner_tutorials/scripts/message_subscriber.py	1;"	kind:file	line:1
+msg	../src/beginner_tutorials/scripts/message_publisher.py	/^    msg = Complex()$/;"	kind:variable	line:14
+obstacle	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_obstacle	/^    def obstacle(self):$/;"	kind:member	line:38
+old_attr	../src/teleop_bot/src/key_publisher.py	/^    old_attr = termios.tcgetattr(sys.stdin)$/;"	kind:variable	line:11
+package_dir	../src/turtlebot3/turtlebot3_example/setup.py	/^    package_dir={'': 'src'}$/;"	kind:variable	line:10
+package_dir	../src/turtlebot3/turtlebot3_teleop/setup.py	/^    package_dir={'': 'src'}$/;"	kind:variable	line:9
+packages	../src/turtlebot3/turtlebot3_example/setup.py	/^    packages=['turtlebot3_example'],$/;"	kind:variable	line:9
+packages	../src/turtlebot3/turtlebot3_teleop/setup.py	/^    packages=['turtlebot3_teleop'],$/;"	kind:variable	line:8
+prepend	../devel/_setup_util.py	/^def prepend(environ, key, prefix):$/;"	kind:function	line:189
+prepend_env_variables	../devel/_setup_util.py	/^def prepend_env_variables(environ, env_var_subfolders, workspaces):$/;"	kind:function	line:129
+processFeedback	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_marker_server	/^def processFeedback(feedback):$/;"	kind:function	line:28
+pub	../src/beginner_tutorials/scripts/message_publisher.py	/^pub = rospy.Publisher('complex', Complex,queue_size = 10)$/;"	kind:variable	line:9
+pub	../src/beginner_tutorials/scripts/topic_publisher.py	/^pub = rospy.Publisher('counter',Int32,queue_size = 10)$/;"	kind:variable	line:8
+pub	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^    pub = rospy.Publisher('cmd_vel', Twist, queue_size=10)$/;"	kind:variable	line:121
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:126
+python3	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+python3	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^python3 = True if sys.hexversion > 0x03000000 else False$/;"	kind:variable	line:4
+range_ahead.py	../src/wanderbot/src/range_ahead.py	1;"	kind:file	line:1
+rate	../src/beginner_tutorials/scripts/message_publisher.py	/^rate = rospy.Rate(2)$/;"	kind:variable	line:11
+rate	../src/beginner_tutorials/scripts/topic_publisher.py	/^rate = rospy.Rate(2)$/;"	kind:variable	line:9
+rate	../src/teleop_bot/src/key_publisher.py	/^    rate = rospy.Rate(100)$/;"	kind:variable	line:10
+rate	../src/wanderbot/src/red_light_green_light.py	/^rate = rospy.Rate(10)$/;"	kind:variable	line:15
+rate	../src/wanderbot/src/wander.py	/^rate = rospy.Rate(10)$/;"	kind:variable	line:17
+red_light_green_light.py	../src/wanderbot/src/red_light_green_light.py	1;"	kind:file	line:1
+red_light_twist	../src/wanderbot/src/red_light_green_light.py	/^red_light_twist = Twist()$/;"	kind:variable	line:9
+rollback_env_variables	../devel/_setup_util.py	/^def rollback_env_variables(environ, env_var_subfolders):$/;"	kind:function	line:62
+scan	../src/wanderbot/src/wander.py	/^scan = rospy.Subscriber('scan',LaserScan,scan_callback)$/;"	kind:variable	line:12
+scan_callback	../src/wanderbot/src/range_ahead.py	/^def scan_callback(msg):$/;"	kind:function	line:6
+scan_callback	../src/wanderbot/src/wander.py	/^def scan_callback(msg):$/;"	kind:function	line:7
+scan_pub	../src/wanderbot/src/range_ahead.py	/^scan_pub = rospy.Subscriber('scan',LaserScan,scan_callback)$/;"	kind:variable	line:11
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  def serialize(self, buff):$/;"	kind:function	line:50
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  def serialize(self, buff):$/;"	kind:function	line:174
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  def serialize(self, buff):$/;"	kind:function	line:129
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  def serialize(self, buff):$/;"	kind:function	line:102
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  def serialize(self, buff):$/;"	kind:function	line:127
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  def serialize(self, buff):$/;"	kind:function	line:58
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  def serialize(self, buff):$/;"	kind:function	line:54
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  def serialize(self, buff):$/;"	kind:function	line:56
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def serialize(self, buff):$/;"	kind:function	line:169
+serialize	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def serialize(self, buff):$/;"	kind:function	line:46
+serialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  def serialize(self, buff):$/;"	kind:function	line:173
+serialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  def serialize(self, buff):$/;"	kind:function	line:124
+serialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  def serialize(self, buff):$/;"	kind:function	line:110
+serialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  def serialize(self, buff):$/;"	kind:function	line:123
+serialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  def serialize(self, buff):$/;"	kind:function	line:49
+serialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  def serialize(self, buff):$/;"	kind:function	line:61
+serialize	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  def serialize(self, buff):$/;"	kind:function	line:48
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_Complex.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:77
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerAction.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:371
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionFeedback.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:223
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionGoal.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:177
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerActionResult.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:221
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerFeedback.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:91
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerGoal.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:84
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/msg/_TimerResult.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:86
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:194
+serialize_numpy	../devel/lib/python2.7/dist-packages/beginner_tutorials/srv/_WordCount.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:82
+serialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Action.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:394
+serialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionFeedback.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:227
+serialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionGoal.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:185
+serialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3ActionResult.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:226
+serialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Feedback.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:85
+serialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Goal.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:90
+serialize_numpy	../devel/lib/python2.7/dist-packages/turtlebot3_example/msg/_Turtlebot3Result.py	/^  def serialize_numpy(self, buff, numpy):$/;"	kind:function	line:84
+server	../src/beginner_tutorials/scripts/fancy_action_server.py	/^server = actionlib.SimpleActionServer('timer', TimerAction, do_timer, False)$/;"	kind:variable	line:43
+server	../src/beginner_tutorials/scripts/simple_action_server.py	/^server = actionlib.SimpleActionServer('timer', TimerAction, do_timer, False)$/;"	kind:variable	line:27
+server	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_marker_server	/^    server = InteractiveMarkerServer("turtlebot3_marker_server")$/;"	kind:variable	line:42
+server	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    server = Turtlebot3Action(rospy.get_name())$/;"	kind:variable	line:163
+service	../src/beginner_tutorials/scripts/service_server.py	/^service = rospy.Service('word_count',WordCount, count_words)$/;"	kind:variable	line:10
+service_client.py	../src/beginner_tutorials/scripts/service_client.py	1;"	kind:file	line:1
+service_server.py	../src/beginner_tutorials/scripts/service_server.py	1;"	kind:file	line:1
+settings	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^    settings = termios.tcgetattr(sys.stdin)$/;"	kind:variable	line:118
+setup.py	../src/turtlebot3/turtlebot3_example/setup.py	1;"	kind:file	line:1
+setup.py	../src/turtlebot3/turtlebot3_teleop/setup.py	1;"	kind:file	line:1
+setup_args	../src/turtlebot3/turtlebot3_example/setup.py	/^setup_args = generate_distutils_setup($/;"	kind:variable	line:8
+setup_args	../src/turtlebot3/turtlebot3_teleop/setup.py	/^setup_args = generate_distutils_setup($/;"	kind:variable	line:7
+shutdown	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_client	/^    def shutdown(self):$/;"	kind:member	line:78
+shutdown	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_pointop_key	/^    def shutdown(self):$/;"	kind:member	line:145
+simple_action_client.py	../src/beginner_tutorials/scripts/simple_action_client.py	1;"	kind:file	line:1
+simple_action_server.py	../src/beginner_tutorials/scripts/simple_action_server.py	1;"	kind:file	line:1
+sonar	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_sonar	/^    def sonar(self):$/;"	kind:member	line:40
+src_init_file	../devel/lib/python2.7/dist-packages/turtlebot3_example/__init__.py	/^        src_init_file = os_path.join(p, __name__, '__init__.py')$/;"	kind:variable	line:25
+src_init_file	../devel/lib/python2.7/dist-packages/turtlebot3_example/__init__.py	/^    src_init_file = os_path.join(p, __name__ + '.py')$/;"	kind:variable	line:21
+src_init_file	../devel/lib/python2.7/dist-packages/turtlebot3_teleop/__init__.py	/^        src_init_file = os_path.join(p, __name__, '__init__.py')$/;"	kind:variable	line:25
+src_init_file	../devel/lib/python2.7/dist-packages/turtlebot3_teleop/__init__.py	/^    src_init_file = os_path.join(p, __name__ + '.py')$/;"	kind:variable	line:21
+state_change_time	../src/wanderbot/src/wander.py	/^            state_change_time = rospy.Time.now() + rospy.Duration(30)$/;"	kind:variable	line:27
+state_change_time	../src/wanderbot/src/wander.py	/^            state_change_time = rospy.Time.now()+rospy.Duration(1)$/;"	kind:variable	line:23
+state_change_time	../src/wanderbot/src/wander.py	/^state_change_time = rospy.Time.now()$/;"	kind:variable	line:15
+status	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                status = 0$/;"	kind:variable	line:163
+status	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                status = status + 1$/;"	kind:variable	line:137
+status	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                status = status + 1$/;"	kind:variable	line:141
+status	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                status = status + 1$/;"	kind:variable	line:145
+status	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                status = status + 1$/;"	kind:variable	line:149
+status	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^    status = 0$/;"	kind:variable	line:125
+sub	../src/beginner_tutorials/scripts/message_subscriber.py	/^sub = rospy.Subscriber('complex',Complex,callback)$/;"	kind:variable	line:12
+sub	../src/beginner_tutorials/scripts/topic_subscriber.py	/^sub = rospy.Subscriber('counter',Int32,callback)$/;"	kind:variable	line:11
+system	../devel/_setup_util.py	/^system = platform.system()$/;"	kind:variable	line:48
+target_angular_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                target_angular_vel  = 0.0$/;"	kind:variable	line:154
+target_angular_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                target_angular_vel = checkAngularLimitVelocity(target_angular_vel + ANG_VEL_STEP_SIZE)$/;"	kind:variable	line:144
+target_angular_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                target_angular_vel = checkAngularLimitVelocity(target_angular_vel - ANG_VEL_STEP_SIZE)$/;"	kind:variable	line:148
+target_angular_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^    target_angular_vel  = 0.0$/;"	kind:variable	line:127
+target_linear_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                target_linear_vel   = 0.0$/;"	kind:variable	line:152
+target_linear_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                target_linear_vel = checkLinearLimitVelocity(target_linear_vel + LIN_VEL_STEP_SIZE)$/;"	kind:variable	line:136
+target_linear_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^                target_linear_vel = checkLinearLimitVelocity(target_linear_vel - LIN_VEL_STEP_SIZE)$/;"	kind:variable	line:140
+target_linear_vel	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^    target_linear_vel   = 0.0$/;"	kind:variable	line:126
+topic_publisher.py	../src/beginner_tutorials/scripts/topic_publisher.py	1;"	kind:file	line:1
+topic_subscriber.py	../src/beginner_tutorials/scripts/topic_subscriber.py	1;"	kind:file	line:1
+turn	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	/^    def turn(self, angle):$/;"	kind:member	line:59
+turtlebot3_bumper	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_bumper	1;"	kind:file	line:1
+turtlebot3_client	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_client	1;"	kind:file	line:1
+turtlebot3_cliff	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_cliff	1;"	kind:file	line:1
+turtlebot3_illumination	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_illumination	1;"	kind:file	line:1
+turtlebot3_marker_server	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_marker_server	1;"	kind:file	line:1
+turtlebot3_model	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^    turtlebot3_model = rospy.get_param("model", "burger")$/;"	kind:variable	line:123
+turtlebot3_obstacle	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_obstacle	1;"	kind:file	line:1
+turtlebot3_pointop_key	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_pointop_key	1;"	kind:file	line:1
+turtlebot3_server	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_server	1;"	kind:file	line:1
+turtlebot3_sonar	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_sonar	1;"	kind:file	line:1
+turtlebot3_teleop_key	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	1;"	kind:file	line:1
+twist	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^            twist = Twist()$/;"	kind:variable	line:165
+twist	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^        twist = Twist()$/;"	kind:variable	line:179
+twist	../src/wanderbot/src/wander.py	/^    twist = Twist()$/;"	kind:variable	line:28
+vel_pub	../src/turtlebot3/turtlebot3_example/nodes/turtlebot3_marker_server	/^    vel_pub = rospy.Publisher("cmd_vel", Twist, queue_size = 5)$/;"	kind:variable	line:43
+vels	../src/turtlebot3/turtlebot3_teleop/nodes/turtlebot3_teleop_key	/^def vels(target_linear_vel, target_angular_vel):$/;"	kind:function	line:74
+wander.py	../src/wanderbot/src/wander.py	1;"	kind:file	line:1
+word_count	../src/beginner_tutorials/scripts/service_client.py	/^word_count = word_counter(words)$/;"	kind:variable	line:12
+word_counter	../src/beginner_tutorials/scripts/service_client.py	/^word_counter = rospy.ServiceProxy('word_count',WordCount)$/;"	kind:variable	line:10
+words	../src/beginner_tutorials/scripts/service_client.py	/^words = ' '.join(sys.argv[1:])$/;"	kind:variable	line:11
